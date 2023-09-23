@@ -47,10 +47,10 @@ Panel discussion across Industries:
 1. [Finance](https://youtu.be/SxpyqomG-5M)
 2. [Manufacturing](https://youtu.be/rWgLMWcnaVs)
 3. [Healthcare](https://youtu.be/qBSl9dth438)
-4. Telecommunication
+4. [Telecommunication](https://youtu.be/t19j9yRWFTs)
 5. [Supply chain](https://youtu.be/vd-szMAyd7g)
-6. [Digital Analytics](https://youtu.be/bjj1bNWi8SI)https://youtu.be/bjj1bNWi8SI
-7. [IT](https://youtu.be/ATckC3wUTiE)https://youtu.be/ATckC3wUTiE  
+6. [Digital Analytics](https://youtu.be/bjj1bNWi8SI)
+7. [IT](https://youtu.be/ATckC3wUTiE) 
 
 
 
