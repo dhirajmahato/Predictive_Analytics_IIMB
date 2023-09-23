@@ -52,8 +52,22 @@ Panel discussion across Industries:
 6. [Digital Analytics](https://youtu.be/bjj1bNWi8SI)
 7. [IT](https://youtu.be/ATckC3wUTiE) 
 
-One of the supervised learning algorithms.
+[Regression](https://youtu.be/pSuqNYpY1KA): One of the supervised learning algorithms.
 A **regression model** requires the knowledge of both the dependent and the independent variables in the training data set. 
+
+Importance:
+1. Finance -  Capital Asset Pricing Model, non-performing assets, probability of default, chance of bankruptcy, and credit risk.
+2. Marketing - sales,  market share, customer satisfaction, customer churn, customer retention, and customer life time value, how to improve success probability of a new product, what is the impact of food label on purchase decision, which promotion is more effective
+3. Operations -  inventory requirement, productivity, and efficiency
+4. HR - job satisfaction and attrition
+
+[Types](https://youtu.be/acuRfxYqMno):
+1. Simple Regression
+2. Multiple Regression
+
+each can be subdivided to Linear and NonLinear
+
+![image](https://github.com/dhirajmahato/Predictive_Analytics_IIMB/assets/33785298/25f74c54-933e-4607-b69c-cc851e32faa9)
 
 ### Week2: Simple Linear Regression 
 Simple Linear Regression (SLR) is a statistical model in which there is only one independent variable and the functional relationship between the dependent variable and the regression coefficient is linear.
