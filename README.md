@@ -52,7 +52,17 @@ Panel discussion across Industries:
 6. [Digital Analytics](https://youtu.be/bjj1bNWi8SI)
 7. [IT](https://youtu.be/ATckC3wUTiE) 
 
+One of the supervised learning algorithms.
+A **regression model** requires the knowledge of both the dependent and the independent variables in the training data set. 
 
+### Week2: Simple Linear Regression 
+Simple Linear Regression (SLR) is a statistical model in which there is only one independent variable and the functional relationship between the dependent variable and the regression coefficient is linear.
 
+### Week3: Multiple Linear Regression 
 
+### Week4: Logistic Regression 
+
+### Week5: Decision Tree and Unstructured Data Analysis
+
+### Week6: Forecasting and Time-Series Analysis
 
