@@ -72,7 +72,13 @@ each can be subdivided to Linear and NonLinear
 ### Week2: Simple Linear Regression 
 Simple Linear Regression (SLR) is a statistical model in which there is only one independent variable and the functional relationship between the dependent variable and the regression coefficient is linear.
 
+- [SLR model assumptions](https://youtu.be/hwuoFOS68Fc) : error have normal distribution
+
+- [Parameter Estimation](https://youtu.be/AxTT2oaOv-c) : Least square meathod
+
 ### Week3: Multiple Linear Regression 
+
+
 
 ### Week4: Logistic Regression 
 
