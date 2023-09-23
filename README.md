@@ -21,5 +21,38 @@ flipkart
 bigbasket
 - making smart basket based on prior orders
 
+The [**different components** ](https://youtu.be/7q1kCXvcqXg)of analytics.
+1. **Descriptive Analytics** focus on what happened in the past.
+2. **Predictive Analytics** focus on what will happen in the future.
+3. **Prescriptive Analytics** focus on what action to take.
+
+Usecases: https://youtu.be/oedWc7ySUyg
+
+#### Predictive Analytics - widely used across several industries
+It aims to predict the probability of occurrence of a future event such as forecasting demand for products/services, customer churn, employee attrition, loan defaults, fraudulent transactions, insurance claim, and stock market fluctuations.
+
+Objectives here:
+
+* Framework for predictive analytics model development and deployment.
+* Problems that companies try to solve using predictive analytics.
+* Different classification of algorithms used in Machine Learning.
+
+**[Overview](https://youtu.be/x2WHpKPxwP8)**
+
+first 3 steps can take 70-80% of time.
+
+![image](https://github.com/dhirajmahato/Predictive_Analytics_IIMB/assets/33785298/48b948cd-732d-4887-bd35-fa1039702ea6)
+
+Panel discussion across Industries:
+1. [Finance](https://youtu.be/SxpyqomG-5M)
+2. [Manufacturing](https://youtu.be/rWgLMWcnaVs)
+3. [Healthcare](https://youtu.be/qBSl9dth438)
+4. Telecommunication
+5. [Supply chain](https://youtu.be/vd-szMAyd7g)
+6. [Digital Analytics](https://youtu.be/bjj1bNWi8SI)https://youtu.be/bjj1bNWi8SI
+7. [IT](https://youtu.be/ATckC3wUTiE)https://youtu.be/ATckC3wUTiE  
+
+
+
 
 
