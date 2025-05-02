@@ -86,3 +86,12 @@ Simple Linear Regression (SLR) is a statistical model in which there is only one
 
 ### Week6: Forecasting and Time-Series Analysis
 
+4 components:
+1. Trend
+2. Seasonality
+3. Cyclicality
+4. Irregularity
+
+Types of forcasting Model
+1. Additive
+2. multiplicative
