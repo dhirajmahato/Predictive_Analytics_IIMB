@@ -100,8 +100,19 @@ Time Series Techniques:
 1. Moving Average
   1.1 Weighted Moving Average
 2. Exponential Smoothing
+  2.1 Simple Exponential Smoothing
+  2.2 Double Exponential Smoothing (Holt's Method) : Level(intercept) + trend(slope)
 3. Autoregression Models
 4. ARIMA
+
+Measures to quantify accuracy of forcasting technique
+1. MAE
+2. MAPE (Mean Abosulte Percentage Error)
+3. MSE
+4. RMSE
+
+
+
    
 
 
