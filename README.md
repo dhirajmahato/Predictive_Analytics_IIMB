@@ -100,20 +100,20 @@ Time Series Techniques:
 1. Moving Average
   1.1 Weighted Moving Average
 2. Exponential Smoothing
-  2.1 Simple Exponential Smoothing
-  2.2 Double Exponential Smoothing (Holt's Method) : Level(intercept) + trend(slope)
+  2.1 Simple Exponential Smoothing: α
+  2.2 Double Exponential Smoothing (Holt's Method) : Level(intercept) α + trend(slope) β
 3. Autoregression Models
 4. ARIMA
 
 Measures to quantify accuracy of forcasting technique
-1. MAE
-2. MAPE (Mean Abosulte Percentage Error)
+1. MAE (Mean Absolute Error)
+2. MAPE (Mean Abosulte Percentage Error)  usually <10%
 3. MSE
 4. RMSE
 
-
-
-   
+Forcasting Power of a model
+1. Theil's coefficient (U statistics) if U <1 : forcast technique is better naive forcast else otherway
+   1.1 Can have few variation in formula
 
 
 
