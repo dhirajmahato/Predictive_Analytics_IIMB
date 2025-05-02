@@ -88,8 +88,8 @@ Simple Linear Regression (SLR) is a statistical model in which there is only one
 
 4 components:
 1. Trend
-2. Seasonality
-3. Cyclicality
+2. Seasonality [less than a year]
+3. Cyclicality [More than a year]
 4. Irregularity
 
 Types of forcasting Model
@@ -103,7 +103,7 @@ Time Series Techniques:
   2.1 Simple Exponential Smoothing: α
   2.2 Double Exponential Smoothing (Holt's Method) : Level(intercept) α + trend(slope) β
 3. Autoregression Models
-4. ARIMA
+4. ARMA [Auto regressive and moving Average model]
 
 Measures to quantify accuracy of forcasting technique
 1. MAE (Mean Absolute Error)
@@ -114,6 +114,8 @@ Measures to quantify accuracy of forcasting technique
 Forcasting Power of a model
 1. Theil's coefficient (U statistics) if U <1 : forcast technique is better naive forcast else otherway
    1.1 Can have few variation in formula
+
+After Deseasonalisation, regression can be used to check thr trend
 
 
 
