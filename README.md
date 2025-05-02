@@ -93,5 +93,16 @@ Simple Linear Regression (SLR) is a statistical model in which there is only one
 4. Irregularity
 
 Types of forcasting Model
-1. Additive
-2. multiplicative
+1. Additive forcasting model: (Seasonality is independent of trend) eg: weekend footfalls trend in cafe
+2. multiplicative forcasting model : eg: flu cases in a city (not just a jump instead a function of population)
+
+Time Series Techniques:
+1. Moving Average
+  1.1 Weighted Moving Average
+2. Exponential Smoothing
+3. Autoregression Models
+4. ARIMA
+   
+
+
+
