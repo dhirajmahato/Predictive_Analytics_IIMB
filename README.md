@@ -117,5 +117,9 @@ Forcasting Power of a model
 
 After Deseasonalisation, regression can be used to check thr trend
 
+ARMA
+1. ACF (Auto corelation function)
+2. PACF (partial Auto corelation function)
 
+Stationary
 
