@@ -97,10 +97,10 @@ Types of forcasting Model
 2. multiplicative forcasting model : eg: flu cases in a city (not just a jump instead a function of population)
 
 Time Series Techniques:
-1. Moving Average
+1. Moving Average <br/>
   1.1 Weighted Moving Average
-2. Exponential Smoothing
-  2.1 Simple Exponential Smoothing: α
+2. Exponential Smoothing <br/>
+  2.1 Simple Exponential Smoothing: α <br/>
   2.2 Double Exponential Smoothing (Holt's Method) : Level(intercept) α + trend(slope) β
 3. Autoregression Models
 4. ARMA [Auto regressive and moving Average model]
