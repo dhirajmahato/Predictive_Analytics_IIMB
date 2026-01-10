@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/a7e8f8f8-d309-4b37-91e9-b95b4964ed82" />## IIM B - Swayam Course
+## IIM B - Swayam Course
 
 Decision makers often struggle with questions such as: <br/> What should be the right price for a product? Which customer is likely to default in his/her loan repayment? <br/> Which products should be recommended to an existing customer? <br/> Finding right answers to these questions can be challenging yet rewarding.
 
