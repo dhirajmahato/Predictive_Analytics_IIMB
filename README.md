@@ -1,4 +1,4 @@
-## IIM B - Swayam Course
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/a7e8f8f8-d309-4b37-91e9-b95b4964ed82" />## IIM B - Swayam Course
 
 Decision makers often struggle with questions such as: <br/> What should be the right price for a product? Which customer is likely to default in his/her loan repayment? <br/> Which products should be recommended to an existing customer? <br/> Finding right answers to these questions can be challenging yet rewarding.
 
@@ -92,11 +92,11 @@ Simple Linear Regression (SLR) is a statistical model in which there is only one
 3. Cyclicality [More than a year]
 4. Irregularity
 
-Types of forcasting Model
+**Types of forcasting Model**
 1. Additive forcasting model: (Seasonality is independent of trend) eg: weekend footfalls trend in cafe
 2. multiplicative forcasting model : eg: flu cases in a city (not just a jump instead a function of population)
 
-Time Series Techniques:
+**Time Series Techniques:**
 1. Moving Average <br/>
   1.1 Weighted Moving Average
 2. Exponential Smoothing <br/>
@@ -105,7 +105,7 @@ Time Series Techniques:
 3. Autoregression Models
 4. ARMA [Auto regressive and moving Average model]
 
-Measures to quantify accuracy of forcasting technique
+Measures to quantify **accuracy of forcasting technique**
 1. MAE (Mean Absolute Error)
 2. MAPE (Mean Abosulte Percentage Error)  usually <10%
 3. MSE
@@ -115,7 +115,7 @@ Forcasting Power of a model
 1. Theil's coefficient (U statistics) if U <1 : forcast technique is better naive forcast else otherway
    1.1 Can have few variation in formula
 
-After Deseasonalisation, regression can be used to check thr trend
+**After Deseasonalisation, regression can be used to check thr trend**
 
 ARMA
 1. ACF (Auto corelation function)
